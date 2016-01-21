@@ -37,3 +37,6 @@ Users can opt to send one or more files to the application as command line argum
 
 - Certain text characters are accounted for, such as `\n, \r` to account for non-text new-lines and carriage returns, however if joined with a natural word without a qualifying separation, the characters will be considered within the word boundary.
 
+- Words are compared without regard to case. Acronyms, suffixes, prefixes and initials will be returned as single words.
+
+- Proper nouns are included in the search as words.
