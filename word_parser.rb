@@ -1,4 +1,4 @@
-LIMIT = 10
+LIMIT = 10      # number of entries to display
 
 require_relative 'ui'
 
