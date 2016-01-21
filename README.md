@@ -1,6 +1,6 @@
 #Ruby Word Parser
 
-Ruby Word Parser is a command-line indexer application that finds the top 10 words across a collection of documents. The application returns the top words and the frequency in which each occurs:
+Ruby Word Parser is a command-line indexer application that finds the top words across a collection of documents. The application returns the most used words and the frequency in which each occurs:
 
 ```ruby
   WORD          |  FREQUENCY
